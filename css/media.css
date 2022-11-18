@@ -1,0 +1,23 @@
+@media (max-width: 650px) {
+    .info{
+        flex-wrap: wrap;
+    }
+    .info_img{
+        margin: 0 auto;
+    }
+    .form-up{
+        display: contents;
+    }
+    .form_group{
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 350px) {
+    h1{
+        font-size: 1.5em;
+    }
+    h2{
+        font-size: 1.2em;
+    }
+}
